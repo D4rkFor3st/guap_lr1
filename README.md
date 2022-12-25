@@ -43,13 +43,16 @@ HTTP аутентификация
 #### 5. АЛГОРИТМ
 
 _Вход_  
-![Вход]![image](https://user-images.githubusercontent.com/121386333/209469786-4ea4ac23-6325-4b16-8251-3b235df2212b.png) 
+![Вход]![image]
+(https://user-images.githubusercontent.com/121386333/209469786-4ea4ac23-6325-4b16-8251-3b235df2212b.png) 
   
 _Регистрация_  
-![Регистрация]![image](https://user-images.githubusercontent.com/121386333/209469796-ef29ab8a-ee06-476b-a65e-11f2e9452eda.png)  
+![Регистрация]![image]
+(https://user-images.githubusercontent.com/121386333/209469796-ef29ab8a-ee06-476b-a65e-11f2e9452eda.png)  
   
 _Восстановление пароля_  
-![Восстановление пароля]![image](https://user-images.githubusercontent.com/121386333/209469814-5fd8de9e-131d-451f-8e18-441077dd7d0c.png) 
+![Восстановление пароля]![image]
+(https://user-images.githubusercontent.com/121386333/209469814-5fd8de9e-131d-451f-8e18-441077dd7d0c.png) 
   
 #### 6. HTTP запрос/ответ
 **Запрос**  
